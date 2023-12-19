@@ -9,7 +9,7 @@ Available Leakage Models:
   4. No League Model
 
    
-1. Instructions
+* Instructions 
 --------------------------------------------------------------------------------
 
 * Download Octave: https://octave.org/
