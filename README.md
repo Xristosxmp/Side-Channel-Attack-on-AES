@@ -4,9 +4,9 @@ Side Channel Attack on AES. Correlation Power Analysis Attack on Octave.
 1. Instructions
 --------------------------------------------------------------------------------
 
-• Download Octave: https://octave.org/
-• Open Octave and Load constants.mat & attack_data_1 || attack_data_2
-• Execute Code cpa_HW.m || cpa_LSB.m || cpa_MSB.m || cpa_identity.m
+* Download Octave: https://octave.org/
+* Open Octave and Load constants.mat & attack_data_1 || attack_data_2
+* Execute Code cpa_HW.m || cpa_LSB.m || cpa_MSB.m || cpa_identity.m
 
 ~ League Models Available:
 
@@ -21,7 +21,9 @@ Side Channel Attack on AES. Correlation Power Analysis Attack on Octave.
 
 
 Example Attack on Keybyte 1 with Attack Data 1:
+
 ![KEYBYTE_01](https://github.com/Xristosxmp/Side-Channel-Attack-on-AES/assets/72732882/e64d2b6f-a234-41fa-98ba-7386abf7fa1b)
+
 plot(R)
 
 
