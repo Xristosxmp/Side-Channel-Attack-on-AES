@@ -16,7 +16,7 @@ Available Leakage Models:
 * Open Octave and Load constants.mat & attack_data_1 || attack_data_2
 * Execute Code cpa_HW.m || cpa_LSB.m || cpa_MSB.m || cpa_identity.m
 * Choose which model you prefer to use in the CPA Attack.
-* Run the Code. (e.x cpa_LSB)
+* Run the Code. (e.x cpa_HW)
 * Execute Command on Octave plot(R) to view or plot(transpose(R)) to view leaked key for the attack data.
 --------------------------------------------------------------------------------
 
