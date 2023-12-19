@@ -23,8 +23,8 @@ Available Leakage Models:
 Examples:
 =====
 | plot(R) | plot(transpose(R)) |
+ ---------------------- | ---------------------- |
 | ![KEYBYTE_01](https://github.com/Xristosxmp/Side-Channel-Attack-on-AES/assets/72732882/e64d2b6f-a234-41fa-98ba-7386abf7fa1b) | ![KEYBYTE_01](https://github.com/Xristosxmp/Side-Channel-Attack-on-AES/assets/72732882/b536aa25-078b-4bfa-bec6-151c862376a5) |
-| | |
 plot(R)
 
 
