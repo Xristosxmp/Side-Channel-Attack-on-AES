@@ -8,8 +8,8 @@ Available Leakage Models:
   3. Least Significant Bit
   4. No League Model
 
-   
-* Instructions 
+--------------------------------------------------------------------------------
+1. Instructions 
 --------------------------------------------------------------------------------
 
 * Download Octave: https://octave.org/
