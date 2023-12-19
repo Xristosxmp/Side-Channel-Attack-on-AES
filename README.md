@@ -3,11 +3,12 @@ Side Channel Attack on AES.
 Correlation Power Analysis Attack on Octave.
 
 Available Leakage Models:
-1. Hamming Weight
-2. Most Significant Bit
-3. Least Significant Bit
-4. No League Model
+  1. Hamming Weight
+  2. Most Significant Bit
+  3. Least Significant Bit
+  4. No League Model
 
+   
 1. Instructions
 --------------------------------------------------------------------------------
 
