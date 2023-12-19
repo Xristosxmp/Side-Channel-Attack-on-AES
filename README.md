@@ -1,5 +1,6 @@
-Side-Channel-Attack-on-AES
-Side Channel Attack on AES. Correlation Power Analysis Attack on Octave.
+Side Channel Attack on AES.
+=====
+Correlation Power Analysis Attack on Octave.
 
 1. Instructions
 --------------------------------------------------------------------------------
@@ -10,10 +11,10 @@ Side Channel Attack on AES. Correlation Power Analysis Attack on Octave.
 
 ~ League Models Available:
 
-* Hamming Weight
-* Most Significant Bit
-* Least Significant Bit
-* No League Model
+1. Hamming Weight
+2. Most Significant Bit
+3. Least Significant Bit
+4. No League Model
 
 * Choose which model you prefer to use in the CPA Attack.
 * Run the Code. (e.x cpa_LSB)
